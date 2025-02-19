@@ -1,10 +1,13 @@
 # OSM & PCD File Merger-
+
 Overview
+
 OSM & PCD File Merger is a user-friendly desktop application designed to merge multiple OpenStreetMap (OSM) XML files and Point Cloud Data (PCD) files while preserving data integrity. The tool efficiently resolves ID conflicts in OSM files and combines PCD files into a single point cloud.
 
 This application is ideal for GIS professionals, urban planners, and 3D data analysts working with OSM-based map data and point cloud processing.
 
 Features
+
 👉 Merge OSM Files: Handles ID conflicts and integrates nodes, ways, and relations.
 
 👉 Merge PCD Files: Combines multiple point cloud datasets into one.
